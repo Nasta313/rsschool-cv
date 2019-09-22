@@ -38,7 +38,7 @@ main ul li{
 }
 
 .header{
-    max-width: 1020px;
+    max-width: 904px;
     background-color: rgb(253, 253, 253);
     margin: 0 auto;
     padding: 30px;
@@ -62,7 +62,7 @@ main ul li{
     position: relative;
     top: 223px;
     left: 0;
-    min-width: 490px;
+    min-width: 440px;
     color: white;
     padding: 15px 0px;
 }
@@ -83,7 +83,7 @@ main ul li{
 
 .header-right h3{
     color: rgba(125, 196, 181, 1);
-    padding: 10px;
+   
     position: relative;
     font-size: 2em;
 }
@@ -92,7 +92,7 @@ header h3::after{
     content: " ";
     height: 2px;
     display: block;
-    width: 90%;
+    width: 87%;
     background-color: rgba(125, 196, 181, 1);  
     position: relative; 
     right: -70px;
@@ -107,7 +107,7 @@ header h3::after{
 
 .contacts{
     position: absolute;
-    right: 30px;
+    right: -30px;
     bottom: 30px;
     width:510px;
 }
@@ -141,7 +141,7 @@ header h3::after{
 }
 
 main{
-    max-width: 1020px;
+    max-width: 904px;
     background-color: rgb(253, 253, 253);
     margin: 0 auto;
     padding: 0 30px ;
@@ -182,6 +182,6 @@ section p{
 footer p{
     background-color: rgba(125, 196, 181, 1);
     padding:  30px;
-    max-width: 1020px;
+    max-width: 904px;
     margin: 0 auto;
 }
